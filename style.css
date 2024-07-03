@@ -187,7 +187,7 @@ body {
 }
 
 .fa.fa-bars {
-    display: none
+    display: none;
 }
 
 @media (max-width: 455px) {
